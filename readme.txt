@@ -7,3 +7,5 @@ continue to try.
 Creating a new branch is quick and simple.
 Adjust the file to commit again.
 learning stash.
+continue to rewrite the content.
+see if there is any conflict.
